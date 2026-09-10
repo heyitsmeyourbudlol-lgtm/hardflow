@@ -1,5 +1,5 @@
-# Kit A→Z cite — hardflow eighty-seventh residual
+# Kit A→Z — hardflow eighty-seventh residual cite
 
-Needle: `OVERSEER_KIT_RUN_AE_2026_09_07` · 2026-09-10 · NO PAY
+Needle: `OVERSEER_KIT_RUN_AE_2026_09_07` · Date: 2026-09-10 · NO PAY · Hub Mac
 
-Lean cite after MACHIN3tools eighty-sixth MERGED tip `c58aff2`. Irreversible artifact via Mac `gh` PR.
+Lean cite after MACHIN3tools eighty-sixth tip `c58aff2` · post-Gaffer mesh chain.
